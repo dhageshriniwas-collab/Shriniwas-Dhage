@@ -38,7 +38,7 @@
 
 ## 📌 Featured Projects
 
-### 🔹 CWeather Forecasting Application
+### 🔹 Weather Forecasting Application
 
 Real-time weather forecasting web application using public APIs
 
