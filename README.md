@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shriniwas Dhage</h1>
 <h3 align="center">Full Stack Developer | React | Node.js | AWS | Data Engineering</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhageshriniwas-collab&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🚀 About Me
