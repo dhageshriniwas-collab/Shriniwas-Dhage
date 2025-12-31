@@ -79,6 +79,8 @@ Modern UI with smooth user experience
 Tech: React, JavaScript, API Integration
 🔗 https://gemini-app1-git-main-dhageshriniwas-collabs-projects.vercel.app/ 
 
+---
+
 ### 🔹Tour India – Interactive Travel Exploration Platform
 
 Interactive travel platform showcasing tourist destinations across India with state-wise and category-based exploration (Heritage, Nature, Adventure, Spiritual).
