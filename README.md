@@ -77,7 +77,7 @@ Real-time conversational interface with prompt-based responses
 Modern UI with smooth user experience
 
 Tech: React, JavaScript, API Integration
-🔗 https://gemini-app1-git-main-dhageshriniwas-collabs-projects.vercel.app/ 
+🔗 https://gemini-theta-navy.vercel.app/ 
 
 ---
 
