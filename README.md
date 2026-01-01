@@ -95,6 +95,14 @@ Tech Stack: HTML, CSS, JavaScript, React
 🔗 https://tour-india-eight.vercel.app/
 
 ---
+### 🔹Portfolio
+Welcome to my Software Engineering Portfolio! This project showcases my skills and projects in software engineering, built with ReactJS and ThreeJS.
+
+It's designed to provide an interactive and engaging user experience, highlighting my proficiency in modern web development technologies.
+
+Tech Stack:HTML, CSS, JavaScript, React,Threejs
+🔗 https://portfolio-six-green-q1nh0lxarz.vercel.app/
+
 
 ## 📈 GitHub Stats
 
